@@ -1,0 +1,11 @@
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ProjeYonetimi.Domain.deps.json
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ProjeYonetimi.Domain.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ProjeYonetimi.Domain.pdb
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ProjeYonetimi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ProjeYonetimi.Domain.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ProjeYonetimi.Domain.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ProjeYonetimi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ProjeYonetimi.Domain.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\refint\ProjeYonetimi.Domain.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ProjeYonetimi.Domain.pdb
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ref\ProjeYonetimi.Domain.dll

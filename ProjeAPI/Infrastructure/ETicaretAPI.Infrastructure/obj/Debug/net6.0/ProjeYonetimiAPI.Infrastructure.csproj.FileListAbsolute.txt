@@ -1,0 +1,17 @@
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.deps.json
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.pdb
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ProjeYonetimi.Domain.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ProjeYonetimiAPI.Application.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ProjeYonetimiAPI.Application.pdb
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ProjeYonetimi.Domain.pdb
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.csproj.CopyComplete
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\refint\ProjeYonetimiAPI.Infrastructure.dll
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ProjeYonetimiAPI.Infrastructure.pdb
+C:\Users\ertug\Desktop\Tez\OnlineGorevVeProjeYonetimi\ProjeAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ref\ProjeYonetimiAPI.Infrastructure.dll
